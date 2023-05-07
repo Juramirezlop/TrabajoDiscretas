@@ -10,7 +10,7 @@ for i in cad:
         m = m+1
     else:
         continue
-if 2*n > m:
+if 2*n == m:
     print('Pertenece al conjunto')
 else:
     print('No pertenece al conjunto')
